@@ -1,6 +1,7 @@
 # NAVI_DJ
-A simple Novation Launchpad Mini MkI based Systems for triggering audio.
+A simple Novation Launchpad Mini MkI based system for triggering audio live.
 Used for playing remixes at gigs. Setup fr 120bpm.
+Made whilst binging on *Serial experiments Lain* and *Ergo Proxy*.
 
 ![screenshot](djnavi.png)
 
