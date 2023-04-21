@@ -4,6 +4,10 @@ Used for playing remixes at gigs. Setup fr 120bpm.
 
 ![screenshot](djnavi.png)
 
+## Installation and Use
+* Put the pd file in the same folder as your audio files.
+* Edit the pdpath.txt file to point to your pd/bin directory
+
 ## Python GUI
 ### Commands
 * deck1 load wavefile (omit.wav)
